@@ -187,6 +187,10 @@
   margin: 20px auto 0;
 }
 
+.u-section-1 .u-pagination-1 {
+  background-image: none;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-products-1 {
     margin-right: initial;

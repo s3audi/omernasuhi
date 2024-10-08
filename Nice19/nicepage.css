@@ -43254,13 +43254,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 89px;
+  min-height: 105px;
 }
 
 .u-header .u-image-1 {
   width: 299px;
   height: 70px;
-  margin: 10px auto 0 0;
+  margin: 11px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -43269,41 +43269,41 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-group-elements-1 {
-  width: 343px;
-  min-height: 63px;
+  width: 700px;
+  min-height: 82px;
   height: auto;
-  margin: -66px 0 13px auto;
+  margin: -66px 0 0 auto;
 }
 
 .u-header .u-language-1 {
-  margin: 0 22px 0 auto;
+  margin: 0 21px 0 auto;
 }
 
 .u-header .u-icon-1 {
-  height: 27px;
+  height: 35px;
   color: rgb(208, 0, 39);
   width: 24px;
 }
 
 .u-header .u-icon-2 {
-  height: 27px;
+  height: 35px;
   width: 24px;
   color: rgb(208, 0, 39);
 }
 
 .u-header .u-icon-3 {
-  height: 27px;
+  height: 35px;
   width: 24px;
   color: rgb(208, 0, 39);
 }
 
 .u-header .u-icon-4 {
-  height: 27px;
+  height: 35px;
   width: 24px;
 }
 
 .u-header .u-menu-1 {
-  margin: 0 0 0 auto;
+  margin: 11px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -43315,6 +43315,17 @@ a.u-link.u-text-hover-grey-90:hover {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.u-header .u-shopping-cart-1 {
+  height: 32px;
+  width: 32px;
+  margin: -80px 252px 59px auto;
+}
+
+.u-header .u-icon-5 {
+  background-image: none;
+  padding: 3px;
+}
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
     width: 299px;
@@ -43322,8 +43333,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-group-elements-1 {
-    width: 343px;
-    margin-top: -80px;
+    width: 700px;
+    margin-top: -67px;
     margin-right: 0;
   }
 
@@ -43334,6 +43345,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-nav-1 {
     letter-spacing: normal;
+  }
+
+  .u-header .u-shopping-cart-1 {
+    margin-top: -80px;
+    margin-right: 252px;
   }
 }
 @media (max-width: 991px) {
@@ -43355,24 +43371,34 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-nav-2 {
     width: 140px;
-    margin-top: 33px;
     margin-right: 45px;
     margin-left: auto;
+  }
+
+  .u-header .u-shopping-cart-1 {
+    margin-right: 193px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-group-elements-1 {
-    margin-top: 20px;
     margin-right: 22px;
   }
 
   .u-header .u-menu-1 {
     margin-left: -111px;
   }
+
+  .u-header .u-shopping-cart-1 {
+    margin-right: 145px;
+  }
 }
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
     margin-left: -261px;
+  }
+
+  .u-header .u-shopping-cart-1 {
+    margin-right: 91px;
   }
 }
  .u-footer {
