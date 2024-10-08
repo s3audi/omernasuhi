@@ -17,7 +17,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35));
   background-position: 50% 50%;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .u-section-1 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35));
   background-position: 50% 50%;
 }
 
@@ -52,7 +52,7 @@
 }
 
 .u-section-1 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35));
   background-position: 50% 50%;
 }
 
@@ -188,6 +188,4 @@
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 400px;
 }
