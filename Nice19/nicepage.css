@@ -43316,10 +43316,6 @@ a.u-link.u-text-hover-grey-90:hover {
   margin-bottom: 0;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 87px;
-  }
-
   .u-header .u-image-1 {
     width: 299px;
     height: 70px;
